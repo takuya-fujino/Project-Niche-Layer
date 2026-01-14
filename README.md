@@ -54,6 +54,8 @@ Decentralized 3D Multi-Layer Mobility Infrastructure refactoring the urban OS fo
 - [ ] **Architecture**: マルチレイヤー都市OSのデータ構造（レイヤー-1〜2）の定義。
 - [ ] **Community**: 物理試作機（1/10モデル等）の設計データ公開。
 
+---
+
 ## 🤝 協力者募集 (How to Contribute)
 資本金ゼロ、しがらみゼロ。あるのは論理と情熱、そしてGitHubだけです。
 
